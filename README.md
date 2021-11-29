@@ -5,4 +5,4 @@
 
 ## Preview del desafio finalizado
 
-<img src="">
+<img src="https://github.com/XmauricioX/pimientaYsal/blob/main/public/images/preview_1.PNG">
